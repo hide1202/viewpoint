@@ -6,10 +6,9 @@ categories: application
 ---
 ‘Saegim’ means ‘to remember’ in pure Korean.
 
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-  {{ myimage.path }}
-{% endfor %}
+| 01 | 02 | 03 | 04 |
+|---|---|---|---|
+| ![screenshot01](/assets/images/screenshot01.png) | ![screenshot02](/assets/images/screenshot02.png) | ![screenshot03](/assets/images/screenshot03.png) | ![screenshot04](/assets/images/screenshot04.png) |
 
 Capture your life’s precious moments, ideas, and work notes swiftly with Saegim!
 
