@@ -3,8 +3,29 @@ layout: post
 title:  "Saegim"
 date:   2025-02-02 22:50:53 +0900
 categories: application
+screenshot01:
+  - url: /assets/images/screenshot01.png
+    image_path: /assets/images/screenshot01.png
+    alt: "screenshot01"
+screenshot02:
+  - url: /assets/images/screenshot02.png
+    image_path: /assets/images/screenshot02.png
+    alt: "screenshot02"
+screenshot03:
+  - url: /assets/images/screenshot03.png
+    image_path: /assets/images/screenshot03.png
+    alt: "screenshot03"
+screenshot04:
+  - url: /assets/images/screenshot04.png
+    image_path: /assets/images/screenshot04.png
+    alt: "screenshot04"
 ---
 ‘Saegim’ means ‘to remember’ in pure Korean.
+
+{% include gallery id="screenshot01" %}
+{% include gallery id="screenshot02" %}
+{% include gallery id="screenshot03" %}
+{% include gallery id="screenshot04" %}
 
 Capture your life’s precious moments, ideas, and work notes swiftly with Saegim!
 
