@@ -6,7 +6,7 @@ categories: application
 ---
 ‘Saegim’ means ‘to remember’ in pure Korean.
 
-![screenshot01](/assets/images/screenshot01.png)
+![screenshot01](/viewpoint/assets/images/screenshot01.png)
 
 Capture your life’s precious moments, ideas, and work notes swiftly with Saegim!
 
